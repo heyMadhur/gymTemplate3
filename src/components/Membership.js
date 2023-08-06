@@ -58,7 +58,7 @@ export default function Membership() {
             <div className="membership--perk">
               <h3>
                 <span>
-                  <sup>$</sup>18/<small>month</small>
+                  <sup>₹</sup>1500/<small>month</small>
                 </span>
               </h3>
             </div>
@@ -114,7 +114,7 @@ export default function Membership() {
             <div className="membership--perk">
               <h3>
                 <span>
-                  <sup>$</sup>28/<small>month</small>
+                  <sup>₹</sup>2000/<small>month</small>
                 </span>
               </h3>
             </div>
@@ -167,7 +167,7 @@ export default function Membership() {
             <div className="membership--perk">
               <h3>
                 <span>
-                  <sup>$</sup>48/<small>month</small>
+                  <sup>₹</sup>2500/<small>month</small>
                 </span>
               </h3>
             </div>
