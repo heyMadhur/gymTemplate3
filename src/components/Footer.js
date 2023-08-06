@@ -18,7 +18,7 @@ export default  function Footer ()  {
                       </defs>
                           </svg>Fitzen</h2>
                     <p>Luxury Fitness gym </p>
-                    <p>10th st, behind the gas station, Miami, FL-USA </p>
+                    <p>Delhi, India </p>
                     <p id="phone">987-985-8884</p>
                     </div>
                 <div className="footer--links">

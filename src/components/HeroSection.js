@@ -23,7 +23,7 @@ useEffect(() => {
     
           <h1>Fitzen Gym </h1>
           <h3>Shape your body like the way you want it.</h3>
-          <h3>Starts From <span><sup>$</sup>18/<small>month</small></span></h3>
+          <h3>Starts From <span><sup>₹</sup>2000/<small>month</small></span></h3>
           <div className= "hero-btns">
           <Link to='/'>
             <Button buttonStyle="btn--primary" className="btn" buttonSize="btn--large" >Join Now</Button> </Link>
